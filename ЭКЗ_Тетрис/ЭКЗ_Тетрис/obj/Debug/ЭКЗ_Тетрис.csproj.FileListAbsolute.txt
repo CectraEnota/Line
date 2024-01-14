@@ -1,0 +1,22 @@
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.exe.config
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.exe
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.pdb
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.AssemblyReference.cache
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.Form1.resources
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.Properties.Resources.resources
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.GenerateResource.cache
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.exe
+C:\Users\79087\Desktop\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.pdb
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.exe.config
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.exe
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\bin\Debug\ЭКЗ_Тетрис.pdb
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.AssemblyReference.cache
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.Form1.resources
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.Properties.Resources.resources
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.GenerateResource.cache
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.exe
+C:\Users\79087\Desktop\лабы по ООП\ЭКЗ_Тетрис\ЭКЗ_Тетрис\obj\Debug\ЭКЗ_Тетрис.pdb

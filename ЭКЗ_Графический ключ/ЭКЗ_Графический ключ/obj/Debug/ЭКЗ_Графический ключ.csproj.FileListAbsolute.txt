@@ -1,0 +1,11 @@
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\bin\Debug\ЭКЗ_Графический ключ.exe.config
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\bin\Debug\ЭКЗ_Графический ключ.exe
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\bin\Debug\ЭКЗ_Графический ключ.pdb
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.csproj.AssemblyReference.cache
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.csproj.SuggestedBindingRedirects.cache
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический_ключ.Form1.resources
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический_ключ.Properties.Resources.resources
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.csproj.GenerateResource.cache
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.csproj.CoreCompileInputs.cache
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.exe
+C:\Users\79087\Desktop\ЭКЗ_Графический ключ\ЭКЗ_Графический ключ\obj\Debug\ЭКЗ_Графический ключ.pdb

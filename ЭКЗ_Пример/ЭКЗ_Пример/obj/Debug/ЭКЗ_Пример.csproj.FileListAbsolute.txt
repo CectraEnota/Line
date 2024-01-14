@@ -1,0 +1,11 @@
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\bin\Debug\ЭКЗ_Пример.exe.config
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\bin\Debug\ЭКЗ_Пример.exe
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\bin\Debug\ЭКЗ_Пример.pdb
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.csproj.AssemblyReference.cache
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.csproj.SuggestedBindingRedirects.cache
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.Form1.resources
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.Properties.Resources.resources
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.csproj.GenerateResource.cache
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.csproj.CoreCompileInputs.cache
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.exe
+C:\Users\79087\Desktop\ЭКЗ_Пример\ЭКЗ_Пример\obj\Debug\ЭКЗ_Пример.pdb
